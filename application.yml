@@ -1,3 +1,6 @@
 #Properties for Config Server
 owner: honeymon
-
+blog:
+  github: http://honeymon.io
+  java: http://java.ihoney.pe.kr
+  life: http://ihoney.pe.kr
