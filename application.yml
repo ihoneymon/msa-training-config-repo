@@ -1,2 +1,26 @@
 #Properties for Config Server
 owner: honeymon
+
+---
+
+spring:
+    profiles: blog-java
+blog:
+    name: 허니몬의 자바Guru
+    url: http://java.ihoney.pe.kr
+
+---
+
+spring:
+    profiles: blog-lifestyle
+blog:
+    name: 허니몬의 달콤한 비행
+    url: http://ihoney.pe.kr
+
+---
+
+spring:
+    profiles: blog-gihub
+blog:
+    name: 허니몬
+    url: http://honeymon.io
