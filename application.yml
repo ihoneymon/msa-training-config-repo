@@ -4,3 +4,17 @@ blog:
   github: http://honeymon.io
   java: http://java.ihoney.pe.kr
   life: http://ihoney.pe.kr
+
+---
+
+spring:
+    profiles: dev
+app:
+    profile: dev
+
+---
+
+spring:
+    prfiles: prd
+app:
+    profile: prd
